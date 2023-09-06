@@ -1,0 +1,15 @@
+{
+  "name": "projeto-live-m2-s2-pokemon",
+  "version": "1.0.0",
+  "description": "Projeto Live - Pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Chiarello",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.48.0"
+  }
+}
